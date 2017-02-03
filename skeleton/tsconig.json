@@ -1,0 +1,13 @@
+{
+    "compilerOptions" : {
+        "target" : "es5",
+        "module" : "codejs",
+        "moduleResolution" : "node",
+        "sourceMap" : true,
+        "emitDecoratorMetadata" : true,
+        "experimentalDecorators" : true,
+        "suppressImplicitAnyIndexErrors":true,
+        "removeComments" : false,
+        "noImplicitAny" : false
+    }
+}
